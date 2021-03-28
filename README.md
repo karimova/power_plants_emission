@@ -11,4 +11,10 @@ Air pollution created by human activities (e.g. transportation and industrial pr
 This report provides a comprehensive analysis of U.S. power plant emissions from 2016 through 2019.
 We focus on three main pollutant gases emitted through the electricity production process: carbon dioxide (CO<sub>2</sub>), sulfur dioxide (SO<sub>2</sub>), and nitrogen oxides (NO<sub>x</sub>). I consider the relative production of these gases by U.S. power plants and associated environmental concerns.
 
+## **Data**
+* Earth’s changing surface temperature (1880-2015) - data from NASA <a href="https://data.giss.nasa.gov/gistemp/">[1]</a>;
+* U.S. electric powerplant data - US Energy Information Administration (EIA) data <a target="_blank" href="https://www.eia.gov/electricity/data/eia923/">[2]</a>;
+* Amounts of fuel used, and quantity of energy generated (both monthly and annually) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia923/">[3]</a>;
+* Geographical location of power plants (latitude and longitude) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia860M/">[4]</a>;
+* fuel codes, emission data per for fossil type of fuels - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/emissions/">[5]</a> and United States Environmental Protection Agency (EPA) data <a target="_blank" href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">[6]</a>
 
