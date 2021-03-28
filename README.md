@@ -16,5 +16,7 @@ We focus on three main pollutant gases emitted through the electricity productio
 * U.S. electric powerplant data - US Energy Information Administration (EIA) data <a target="_blank" href="https://www.eia.gov/electricity/data/eia923/">[2]</a>;
 * Amounts of fuel used, and quantity of energy generated (both monthly and annually) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia923/">[3]</a>;
 * Geographical location of power plants (latitude and longitude) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia860M/">[4]</a>;
-* fuel codes, emission data per for fossil type of fuels - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/emissions/">[5]</a> and United States Environmental Protection Agency (EPA) data <a target="_blank" href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">[6]</a>
+* Fuel codes, emission data per fossil type of fuels - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/emissions/">[5]</a> and United States Environmental Protection Agency (EPA) data <a target="_blank" href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">[6]</a>
+
+
 
