@@ -4,7 +4,7 @@
 <img width="50%" src="static/images/air_pol_2.png">
 </p>
 
-## **About the project**
+## **About the Project**
 
 Air pollution created by human activities (e.g. transportation and industrial production) or by natural events (e.g. wildfires) has been linked to severe environmental and public health consequences. Climate change, for example, has been at the center of national attention and left unchecked could have profound and irreversible effects on our planet. 
 <br>
@@ -18,5 +18,5 @@ We focus on three main pollutant gases emitted through the electricity productio
 * Geographical location of power plants (latitude and longitude) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia860M/">[4]</a>;
 * Fuel codes, emission data per fossil type of fuels - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/emissions/">[5]</a> and United States Environmental Protection Agency (EPA) data <a target="_blank" href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">[6]</a>
 
-
+## **Pandas and Tableau were used for these analyses.**
 
