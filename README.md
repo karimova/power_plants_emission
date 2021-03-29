@@ -1,7 +1,5 @@
 # **U.S. Electric Power Plants and Their Contribution on Air Pollution**
 
-Webpage: https://karimova.github.io/power_plants_emission/
-
 <p align="center">
 <img width="50%" src="static/images/air_pol_2.png">
 </p>
@@ -20,5 +18,8 @@ We focus on three main pollutant gases emitted through the electricity productio
 * Geographical location of power plants (latitude and longitude) - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/eia860M/">[4]</a>;
 * Fuel codes, emission data per fossil type of fuels - EIA data <a target="_blank" href="https://www.eia.gov/electricity/data/emissions/">[5]</a> and United States Environmental Protection Agency (EPA) data <a target="_blank" href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">[6]</a>
 
-Pandas and Tableau were used for these analyses
+Pandas and Tableau were used for these analyses.
+
+
+## **Webpage: https://karimova.github.io/power_plants_emission/**
 
